@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 <h1 align="center">Olá, me chamo Márcio Delfino</h1>
 
-<p align="center">Sou aluno dos cursos de Análise e Desenvolvimento de Sistemas na Unipê e Engenharia de Produção na Universidade Federal da Paraíba, intercalo os 2 cursos a noite. Meu foco de estudos é o Back End, no momento sou Extensionista do projeto Fábrica de Software da empresa UBTech/Unipê e graças aos projetos desenvolvidos nela para clientes externos, estou tendo a oportunidade de aprimorar meus conhecimentos em Python, Django, Django Rest Framework, Banco de Dados e Trabalho em Equipe via GitLab/GitHub. </p>&nbsp;
+<p align="center">Sou aluno dos cursos de Análise e Desenvolvimento de Sistemas na Unipê e Engenharia de Produção na Universidade Federal da Paraíba, intercalo os 2 cursos a noite. <strong>Meu foco de estudos é o Back End</strong>, no momento sou Extensionista do projeto Fábrica de Software da empresa UBTech/Unipê e graças aos projetos desenvolvidos nela para clientes externos, estou tendo a oportunidade de aprimorar meus conhecimentos em Python, Django, Django Rest Framework, Banco de Dados e Trabalho em Equipe via GitLab/GitHub. </p>&nbsp;
 
 <div align="center" style="margin-bottom: 100px; display: flex; justify-content: center;">
   
