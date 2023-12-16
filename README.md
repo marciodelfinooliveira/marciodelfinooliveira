@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; margin-left: 5px;">
-    <img src="HTTPS://github-readme-stats-gold-seven-66.vercel.app/api/top-langs/?username=marciodelfinooliveira&layout=donut-vertical" />
+    <img src="https://github-readme-stats-gold-seven-66.vercel.app/api/top-langs/?username=marciodelfinooliveira&layout=compact" />
   </a>
   
 </div>
