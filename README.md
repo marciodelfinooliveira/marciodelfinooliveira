@@ -37,8 +37,8 @@
 #### Estudando neste momento:
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![Container](https://img.shields.io/badge/Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Celery](https://img.shields.io/badge/Celery-2CA043?style=for-the-badge&logo=celery&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 
 #### Banco de Dados:
 
