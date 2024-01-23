@@ -39,6 +39,8 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![Celery](https://img.shields.io/badge/Celery-2CA043?style=for-the-badge&logo=celery&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A63B4?style=for-the-badge&logo=axios&logoColor=white)
 
 #### Banco de Dados:
 
