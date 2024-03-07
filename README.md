@@ -5,14 +5,9 @@
 <p align="center">Sou aluno dos cursos de Análise e Desenvolvimento de Sistemas na Unipê e Engenharia de Produção na Universidade Federal da Paraíba, intercalo os 2 cursos a noite. <strong>Meu foco de estudos é o Back End</strong>, no momento sou Extensionista do projeto Fábrica de Software da empresa UBTech/Unipê e graças aos projetos desenvolvidos nela para clientes externos, estou tendo a oportunidade de aprimorar meus conhecimentos em Python, Django, Django Rest Framework, Banco de Dados e Trabalho em Equipe via GitLab/GitHub. </p>&nbsp;
 
 <div align="center">
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=marciodelfinooliveira&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-    <img height="150em" src="https://github-readme-stats-gold-seven-66.vercel.app/api/top-langs/?username=marciodelfinooliveira&layout=compact" />
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=marciodelfinooliveira&hide_border=true&locale=pt_BR&theme=dark" alt="GitHub Streak" />
+    <img height="150em" src="https://github-readme-stats-gold-seven-66.vercel.app/api/top-langs/?username=marciodelfinooliveira&layout=compact&theme=dark" />
 </div>
-
- &nbsp;
- &nbsp;
-
-
 
 ## Minhas Habilidades
 
