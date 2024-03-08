@@ -5,8 +5,8 @@
 <p align="center">Eu Curso ADS(Análise e Desenvolvimento de Sistemas). <strong>Meus focos de estudos são a Engenharia de Software e Back End</strong>, no momento sou Estagiário da empresa Liga Digital, assim como Extensionista do projeto Fábrica de Software da empresa UBTech/Unipê e graças aos projetos desenvolvidos nas 2 frentes para clientes, tenho a oportunidade de aprimorar diariamente meus conhecimentos, os confrontando com desafios diários para criar experiências de apredizado recompensadoras !! Majoritariamente utilizo hoje a linguagem Python, principalmente o Framework Django, porém tenho conhecimentos em PHP e atualmente estudo Java e também SQL, com foco em modelagem de dados. </p>&nbsp;
 
 <div align="center">
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=marciodelfinooliveira&hide_border=true&locale=pt_BR&theme=dark" alt="GitHub Streak" />
-    <img height="150em" src="https://github-readme-stats-gold-seven-66.vercel.app/api/top-langs/?username=marciodelfinooliveira&layout=compact&theme=dark" />
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=marciodelfinooliveira&hide_border=true&locale=pt_BR&theme=dark" alt="GitHub Streak" />
+    <img height="200em" src="https://github-readme-stats-gold-seven-66.vercel.app/api/top-langs/?username=marciodelfinooliveira&layout=compact&theme=dark" />
 </div>
 
 ## Minhas Habilidades
