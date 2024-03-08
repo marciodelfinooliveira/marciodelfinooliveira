@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8cb7e4&height=120&section=header"/>
 &nbsp;&nbsp;&nbsp;
-<h1 align="center">Olá, me chamo Márcio Delfino</h1>
+<h1 align="center">Olá, me chamo Márcio Delfino !! Tudo bem com você ?</h1>
 
-<p align="center">Sou aluno dos cursos de Análise e Desenvolvimento de Sistemas na Unipê e Engenharia de Produção na Universidade Federal da Paraíba, intercalo os 2 cursos a noite. <strong>Meu foco de estudos é o Back End</strong>, no momento sou Extensionista do projeto Fábrica de Software da empresa UBTech/Unipê e graças aos projetos desenvolvidos nela para clientes externos, estou tendo a oportunidade de aprimorar meus conhecimentos em Python, Django, Django Rest Framework, Banco de Dados e Trabalho em Equipe via GitLab/GitHub. </p>&nbsp;
+<p align="center">Eu Curso ADS(Análise e Desenvolvimento de Sistemas). <strong>Meus focos de estudos são a Engenharia de Software e Back End</strong>, no momento sou Estagiário da empresa Liga Digital, assim como Extensionista do projeto Fábrica de Software da empresa UBTech/Unipê e graças aos projetos desenvolvidos nas 2 frentes para clientes, tenho a oportunidade de aprimorar diariamente meus conhecimentos, os confrontando com desafios diários para criar experiências de apredizado recompensadoras !! Majoritariamente utilizo hoje a linguagem Python, principalmente o Framework Django, porém tenho conhecimentos em PHP e atualmente estudo Java e também SQL, com foco em modelagem de dados. </p>&nbsp;
 
 <div align="center">
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=marciodelfinooliveira&hide_border=true&locale=pt_BR&theme=dark" alt="GitHub Streak" />
@@ -19,6 +19,8 @@
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -27,7 +29,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![Celery](https://img.shields.io/badge/Celery-2CA043?style=for-the-badge&logo=celery&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A63B4?style=for-the-badge&logo=axios&logoColor=white)
 
 #### Banco de Dados:
@@ -40,6 +41,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 
 &nbsp;
 &nbsp;
