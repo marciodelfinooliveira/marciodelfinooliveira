@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8cb7e4&height=120&section=header"/>
 &nbsp;&nbsp;&nbsp;
-<h1 align="center">Olá, me chamo Márcio Delfino !! Tudo bem com você ?</h1>
+<h1 align="center">Olá, me chamo Márcio Delfino !!</h1>
 
 <p align="center">Eu Curso ADS(Análise e Desenvolvimento de Sistemas). <strong>Meus focos de estudos são a Engenharia de Software e Back End</strong>, no momento sou Estagiário da empresa Liga Digital, assim como Extensionista do projeto Fábrica de Software da empresa UBTech/Unipê e graças aos projetos desenvolvidos nas 2 frentes para clientes, tenho a oportunidade de aprimorar diariamente meus conhecimentos, os confrontando com desafios diários para criar experiências de apredizado recompensadoras !! Majoritariamente utilizo hoje a linguagem Python, principalmente o Framework Django, porém tenho conhecimentos em PHP e atualmente estudo Java e também SQL, com foco em modelagem de dados. </p>&nbsp;
 
