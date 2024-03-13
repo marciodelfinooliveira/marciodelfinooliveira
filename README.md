@@ -6,7 +6,7 @@
 
 <div align="center">
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=marciodelfinooliveira&hide_border=true&locale=pt_BR&theme=dark" alt="GitHub Streak" />
-    <img height="175em" src="https://github-readme-stats-gold-seven-66.vercel.app/api/top-langs/?username=marciodelfinooliveira&layout=compact&theme=dark" />
+    <img height="175em" src="https://github-readme-stats-gold-seven-66.vercel.app/api/top-langs/?username=marciodelfinooliveira&exclude_repo=Django_Aula,Estudos_DjangoT,Repo_Prototipo_3,Repo_Prototipo_2,Repo_Prototipo_1,Repo_JFPB,Liga-Estagios-1.0&layout=compact&theme=dark" />
 </div>
 
 ## Minhas Habilidades
