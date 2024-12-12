@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 <h1 align="center">Olá, me chamo Márcio Delfino !!</h1>
 
-<p align="center">Curso ADS (Análise e Desenvolvimento de Sistemas). <strong>Meus focos de estudos são a Engenharia de Software e tecnologias BackEnd</strong>, no momento ocupo o cargo de desenvolvedor BackEnd na SUDEMA (Superintendência de Administração do Meio Ambiente), e graças aos projetos desenvolvidos, tenho diariamente a oportunidade de aprimorar meus conhecimentos a frente dos desafios !! Majoritariamente utilizo hoje a linguagem PHP, tanto a linguagem pura como com o framework Laravel, paralelamente tenho projetos pessoais que pretendo lançar no mercado, os quais estão sendo desenvolvido em Python, utilizando para BackEnd o Framework Django, além de outro projeto em PHP, além disso, ando estudando Docker e SQL. </p>&nbsp;
+<p align="center">Curso ADS (Análise e Desenvolvimento de Sistemas). <strong>Hoje meus focos de estudos são principalmente as áreas de Banco de Dados, Segurança e Infra</strong>, no momento ocupo o cargo de desenvolvedor BackEnd na SUDEMA (Superintendência de Administração do Meio Ambiente) na Paraíba, graças aos projetos desenvolvidos tenho diariamente a oportunidade de aprimorar meus conhecimentos a frente dessas áreas !! Hoje Python, PHP e SQL fazem parte do meu dia a dia. </p>&nbsp;
 
 <div align="center">
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=marciodelfinooliveira&hide_border=true&locale=pt_BR&theme=dark" alt="GitHub Streak" />
@@ -33,7 +33,7 @@
 
 #### Banco de Dados:
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0089C6?style=for-the-badge&logo=sql-server&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
