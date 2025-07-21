@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 <h1 align="center">Olá, me chamo Márcio Delfino !!</h1>
 
-<p align="center">Curso ADS (Análise e Desenvolvimento de Sistemas). <strong>Hoje meus focos de estudos são principalmente as áreas de Banco de Dados, Segurança e Infra</strong>, no momento ocupo o cargo de desenvolvedor BackEnd na SUDEMA (Superintendência de Administração do Meio Ambiente) na Paraíba, graças aos projetos desenvolvidos tenho diariamente a oportunidade de aprimorar meus conhecimentos a frente dessas áreas !! Hoje Python, PHP e SQL fazem parte do meu dia a dia. </p>&nbsp;
+<p align="center">Atualmente trabalho no desenvolvimento backend com focos em PHP e Python, infraestrutura com Docker, gerenciamento de servidores Debian e Ubuntu Server e na administração de bancos de dados SQLServer e PostgresSQL, determinado a sempre melhorar como pessoa e profissional.</p>&nbsp;
 
 <div align="center">
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=marciodelfinooliveira&hide_border=true&locale=pt_BR&theme=dark" alt="GitHub Streak" />
