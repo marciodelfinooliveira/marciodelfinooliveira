@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 <h1 align="center">Olá, me chamo Márcio Delfino !!</h1>
 
-<p align="center">Atualmente trabalho no desenvolvimento backend com focos em PHP e Python, infraestrutura com Docker, gerenciamento de servidores Debian e Ubuntu Server e na administração de bancos de dados SQLServer e PostgresSQL, determinado a sempre melhorar como pessoa e profissional.</p>&nbsp;
+<p align="center">Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa (UNIPÊ). Atualmente sou Analista Desenvolvedor Pleno na Minsait (Indra), atuando junto a Secretaria de Estado da Fazenda da Paraíba (SEFAZ-PB). Possuo experiência em desenvolvimento Fullstack, com ênfase em tecnologias como Python, PHP, Node.js e React. Atuo no desenvolvimento e manutenção de APIs REST, microsserviços e processamento de dados em tempo real utilizando Kafka, com proficiência em infraestrutura e orquestração de containers com Docker e Kubernetes, além de experiência em bancos de dados relacionais (PostgreSQL, SQL Server) e consultas via Hasura (GraphQL). Possuo histórico de atuação em projetos de modernização para o setor público e automação de processos financeiros B2B.</p>&nbsp;
 
 <div align="center">
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=marciodelfinooliveira&hide_border=true&locale=pt_BR&theme=dark" alt="GitHub Streak" />
